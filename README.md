@@ -1,3 +1,3 @@
 # OBS Overlays - Twitch
 
-OBS overlays for including games and other applications.
+OBS overlays including games and other applications.
